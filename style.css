@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&family=Noto+Sans+Math&family=Poppins:wght@400;700&family=Quicksand&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: rgb(229, 253, 253);
+}
+
+.container {
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+    font-family: 'Noto Sans', sans-serif;
+    margin: auto;
+    width: 80vw;
+    height: auto;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.container h1 {
+    background-color: white;
+    top: 10px;
+
+}
+
+.content {
+    width: 60vw;
+    margin: auto;
+    font-family: 'Noto Sans', sans-serif;
+    background-color: #ffffff;
+    padding: 20px;
+    border: 2px solid rgb(221, 220, 220);
+    border-radius: 10px;
+
+
+}
+
+.content h3 {
+    background-color: #ffffff;
+    ;
+}
+
+.content ul li {
+    background-color: #ffffff;
+}
+
+.content ul li a {
+    background-color: #ffffff;
+}
+
+.content span {
+    background-color: #ffffff;
+}
+
+.main {
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+    font-family: 'Noto Sans', sans-serif;
+    margin: auto;
+    width: 60vw;
+    height: auto;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.main ol li img {
+    width: 50vw;
+}
+
+.main h2 {
+    background-color: white;
+}
+
+.main ol li {
+    background-color: #ffffff;
+}
+
+.main ol li a {
+    background-color: #ffffff;
+}
+
+.github-work p {
+    width: 60vw;
+    margin: auto;
+    font-family: 'Noto Sans', sans-serif;
+    background-color: white;
+    padding: 20px;
+}
